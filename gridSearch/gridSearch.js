@@ -15,4 +15,5 @@ O X O
 
 OUTPUT:
 2
+
 */
